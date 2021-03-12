@@ -9,8 +9,11 @@ Real Finance will also be offering to farm and stake on their platform. On their
 🔶 Token Information:
 
 Token Name:    REFI
+
 Token Type:    BEP20 Binance
+
 Total Supply:  100,000,000 REFI
+
 Decimal:       18
 
 🔶 The details of the Pre-Sale are as follows:
@@ -32,6 +35,7 @@ Minimum Purchase Amount: 0,05 BNB
 Maximum Purchase Amount: 100 BNB
 
 Sale Address: 0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f
+
 Acceptable Currencies: BNB
 
 🌐 Website  — https://realfinance.network
