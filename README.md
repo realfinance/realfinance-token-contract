@@ -16,21 +16,34 @@ Decimal:       18
 🔶 The details of the Pre-Sale are as follows:
 
 Pre-Sale Round 1 Date: 06/03/2021 - 16/03/2021
+
 Pre-Sale Round 1 Price: ~$0.055 (%100 Bonus)
+
 Pre-Sale Round 2 Date: 16/03/2021 - 06/04/2021 (%50 Bonus)
+
 Pre-Sale Round 3 Date: 06/04/2021 - 06/05/2021 (%0 Bonus)
+
 Pre-Sale Hardcap: 3500 BNB
+
 Pre-Sale Softcap: 1000 BNB
+
 Minimum Purchase Amount: 0,05 BNB
+
 Maximum Purchase Amount: 100 BNB
 
 Sale Address: 0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f
 Acceptable Currencies: BNB
 
 🌐 Website  — https://realfinance.network
+
 📧 Telegram — https://t.me/refinetwork
+
 🔈 Telegram — https://t.me/refi_network
+
 🕊 Twitter  — https://twitter.com/refi_network
+
 📺 YouTube  — https://www.youtube.com/channel/UCzc28Jfen5ScSSBXZPJVyZw
+
 📝 Medium   — https://refi-network.medium.com/
+
 🗂 BscScan  — https://bscscan.com/token/0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f
